@@ -1,1 +1,12 @@
 "# Bouncing-ball" 
+-Tạo khung 600*600
+-Tạo thanh chạy 20*60
+-Tính năng sang trái sang phải
+-Di chuyển giới hạn hai bên
+-Tạo một quả bóng
+-Nếu va vào thanh chạy thì bật lại
+-Nếu va vào hai thanh hai bên và thanh trên thì bật lại
+-Nếu rơi xuống thanh dưới thì biến mất
+-Xuất hiện quả bóng mới
+-Giới hạn 5 mạng
+-Nếu hết 5 mạng thì GameOver
